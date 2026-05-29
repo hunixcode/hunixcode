@@ -11,7 +11,7 @@ Hello world!
 Senior Computer Science Student [UPF University](https://www.upf.pf).
 
 - :hammer_and_pick: C, JavaScript, Bash, Python...
-- 🪟-11 & Ubuntu & KDE & VS Code.
+- 🪟-11 & Arch/Ubuntu & KDE/Hyprland & VS Code.
 
 ![My Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hunix443&theme=apprentice)
 

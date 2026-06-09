@@ -1,5 +1,5 @@
-# ![banner](banner.png)
-<img align="left" src="https://avatars.githubusercontent.com/u/211940501?v=4">
+# <img src="./banner.png">
+<img align="left" height="300px" src="https://avatars.githubusercontent.com/u/211940501?v=4">
 
 <h3> I'm {Hauani/Dylan}! :wave:</h3>
 
@@ -17,4 +17,3 @@ Senior Computer Science Student [UPF University](https://www.upf.pf).
 <!-- This is a s3cr3t place why did you open my readme in the first place ? -->
 
 <a href="https://www.buymeacoffee.com/hauani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></br>
-an iced-one please.

@@ -1,5 +1,5 @@
 # ![Contribution Calendar](https://ghchart.rshah.org/hunix443)
-<img align="left" height="300px" src="./assets/pfp.jpg">
+<img align="left" height="300px" src="./assets/arch-nobg.png">
 
 <h3> I'm Hauani! :wave:</h3>
 

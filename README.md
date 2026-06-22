@@ -6,12 +6,10 @@
 
 **Hello world!**
 
-stalking an open-sourcer is often not a good idea btw.. </br>
+<em>stalking an open-sourcer is often not a good idea btw.. </em></br><!-- Good job looking at my README --></br>
 :trophy: 3rd place French Polynesia RootMe CTF April 2026</br>:notebook: TryHackMe SAL1 Certification - [Certificate](#) 
 
 Senior Computer Science Student [UPF University](https://www.upf.pf).</br>
 I use Arch btw
-
-<!-- This is a s3cr3t place why did you open my readme in the first place ? -->
 
 <a href="https://www.buymeacoffee.com/hauani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></br>

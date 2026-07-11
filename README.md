@@ -10,6 +10,5 @@
 :trophy: 3rd place RootMe CTF April 2026</br>:notebook: TryHackMe SAL1 Certification - [Certificate](#) 
 
 Senior Computer Science Student.</br>
-I use Arch btw
-
+KDE > Hyprland
 

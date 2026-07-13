@@ -7,8 +7,8 @@
 **Hello world!**
 
 <em>stalking an open-sourcer is often not a good idea btw.. </em></br><!-- Good job looking at my README --></br>
-:trophy: 3rd place RootMe CTF April 2026</br>:notebook: TryHackMe SAL1 Certification - [Certificate](#) 
+:trophy: 3rd place RootMe CTF April 2026</br>:notebook: TryHackMe SAL1 Certification - [Certificate](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.y5G9FXo2AU8Hip6UkRnfrAHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=4ecbb065a5313e7f56af25fa5291b872eaca996cb0f73d4d2b9f8faf7c477426&ipo=images) 
 
 Senior Computer Science Student.</br>
-KDE > Hyprland
+Computer Activist
 

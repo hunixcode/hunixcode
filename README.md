@@ -3,8 +3,6 @@
   <a href="https://github.com/hunixcode"><img align="center" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhunixcode&longCache=true"/></a>
 </div>
 
----
-
 Senior CS Student · Full-Stack Dev · Security Enthusiast
 
 `3rd` RootMe CTF April 2026 ·  
@@ -31,5 +29,4 @@ Senior CS Student · Full-Stack Dev · Security Enthusiast
 - [espresso](https://github.com/hunixcode/espresso) — Command-line password manager
 - [mintleaf](https://github.com/hunixcode/mintleaf) — shell utilities for linux mint (personal use)
 
----
 <em>stalking an open-sourcer is often not a good idea btw..</em>

@@ -29,7 +29,6 @@ Senior CS Student · Full-Stack Dev · Security Enthusiast
 - [espresso](https://github.com/hunixcode/espresso) — Command-line password manager
 - [mintleaf](https://github.com/hunixcode/mintleaf) — shell utilities for linux mint (personal use)
 
-<em>harvey, nobody knows what I see...</em></br>
-<em>everyone thinks I'm crazy...</em></br>
-<em>crazy for you...</em></br>
-<em>oh boy.</em></br>
+<em>all energy is only borrowed</em></br>
+<em>and one day</em></br>
+<em>you'll have to give it back</em></br>

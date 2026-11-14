@@ -19,16 +19,6 @@ Senior CS Student · Full-Stack Dev · Security Enthusiast
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-## stuff i built
-
-- [icedcoffee](https://hunixcode.github.io/icedcoffee/) — portfolio site, hand-built with React
-- [mocha](https://github.com/hunixcode/mocha) — self-hosted password manager (Rust, Tauri, React, Supabase)
-- [wavetocoffee](https://github.com/hunixcode/wavetocoffee) — mobile music player (React Native)
-- [lattelab](https://github.com/hunixcode/lattelab) — home-lab setup for blue-team / SOC stuff
-- [kde-monochrome-rice](https://github.com/hunixcode/kde-monochrome-rice) — my KDE desktop config
-- [espresso](https://github.com/hunixcode/espresso) — Command-line password manager
-- [mintleaf](https://github.com/hunixcode/mintleaf) — shell utilities for linux mint (personal use)
-
 <em>all energy is only borrowed</em></br>
 <em>and one day</em></br>
 <em>you'll have to give it back</em></br>
